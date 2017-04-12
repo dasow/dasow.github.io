@@ -3,4 +3,8 @@ layout: page
 title: Subscribe
 ---
 
-RSS, Overcast, etc links go here
+* [RSS](http://dasow.libsyn.com/rss)
+* iTunes
+* Google Play
+* Overcast
+* Pocket Casts
