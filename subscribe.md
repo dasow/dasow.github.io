@@ -6,5 +6,5 @@ title: Subscribe
 * [RSS](http://dasow.libsyn.com/rss)
 * iTunes
 * Google Play
-* Overcast
+* [Overcast](https://overcast.fm/p583069-PllntH)
 * Pocket Casts
