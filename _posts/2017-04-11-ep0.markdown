@@ -8,6 +8,8 @@ permalink: episodes/0
 
 Welcome to the Dollars and Sense of Westworld podcast where we try to figure out if it would be possible to run Westworld as an actual business. In this episode we setup the goal of this podcast as well as giving a brief introduction of the hosts.
 
+In which we learn Chris repeats business terminology to sound smart (it fails), and Joe has the most wooden delivery since Pinocchio.
+
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5258354/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 **Links/Show Notes**
