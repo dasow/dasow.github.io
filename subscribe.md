@@ -4,7 +4,7 @@ title: Subscribe
 ---
 
 * [RSS](http://dasow.libsyn.com/rss)
-* iTunes
+* [iTunes](https://itunes.apple.com/us/podcast/the-dollars-and-sense-of-westworld/id1227972996?mt=2)
 * [Overcast](https://overcast.fm/p583069-PllntH)
 * [Pocket Casts](http://pca.st/ry44)
 
