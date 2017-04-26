@@ -13,7 +13,7 @@ In which we discuss the value of automation, as well as when it does and doesnâ€
 **Links/Show Notes**
 
 * Host Intake Protocol:
-   * http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg
+   * [http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg](http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg)
 * Branching narrative software examples:
-   * http://www.inklestudios.com/inklewriter/
-   * http://www.storynexus.com/s
+   * [http://www.inklestudios.com/inklewriter/](http://www.inklestudios.com/inklewriter/)
+   * [http://www.storynexus.com/s](http://www.storynexus.com/s)
