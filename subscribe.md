@@ -2,7 +2,7 @@
 layout: page
 title: Subscribe
 ---
-
+## Subscribe
 Want to automatically download the newest episodes of Dollars and Sense of Westworld when they are released? Simply subscribe with your podcast player of choice by tapping on one of the buttons below. Your player not listed? Feel free to grab the RSS feed directly.
 
 <a href="https://itunes.apple.com/us/podcast/the-dollars-and-sense-of-westworld/id1227972996?mt=2"><img src="http://dollarsandsenseofwestworld.com/img/SubscribeApplePodcasts.svg" alt="Apple Podcasts" width="138"></a>
