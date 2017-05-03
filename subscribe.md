@@ -5,6 +5,8 @@ title: Subscribe
 
 Want to automatically download the newest episodes of Dollars and Sense of Westworld when they are released? Simply subscribe with your podcast player of choice by tapping on one of the buttons below. Your player not listed? Feel free to grab the RSS feed directly.
 
+![RSS](/img/SubscribeRssButton.svg)
+
 * [RSS](http://dasow.libsyn.com/rss)
 * [Overcast](https://overcast.fm/p583069-PllntH)
 * [Pocket Casts](http://pca.st/ry44)
