@@ -4,8 +4,7 @@ title:  "Episode 2: Why Process is Important or: A/B Testing of Brothels"
 date:   2017-05-02
 permalink: episodes/2
 ---
-
-![How to properly sand your hourse](/img/rate_my_brothel.jpg)
+<img src="/img/rate_my_brothel.jpg" alt="How to A/B test a brothel" width="700">
 
 **Description**
 
