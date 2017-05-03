@@ -4,6 +4,9 @@ title:  "Episode 2: Why Process is Important or: A/B Testing of Brothels"
 date:   2017-05-02
 permalink: episodes/2
 ---
+
+![How to properly sand your hourse](/img/rate_my_brothel.jpg)
+
 **Description**
 
 In which we discuss the process failures that Westworld had, what they do right, why it’s important to identify the root cause, and prostitution. We also dive into what happens when the process allows failures to continue happening, how to improve a broken process, and why it’s important to verify that something was fixed. Meanwhile, Pat takes a couple potshots at product owners while forgetting he happens to be one.
