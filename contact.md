@@ -6,8 +6,8 @@ Would you like to reach out to us (seriously, why?) and either discuss the show 
 
 <div>
 <strong>E-mail:</strong> contact@dollarsandsenseofwestworld.com<br/>
-<strong>Facebook:</strong> https://www.facebook.com/DollarsAndSenseOfWestworld/<br/>
-<strong>Twitter:</strong> https://twitter.com/_dasow<br/>
+<strong>Facebook:</strong> <a href="https://www.facebook.com/DollarsAndSenseOfWestworld/">https://www.facebook.com/DollarsAndSenseOfWestworld/</a><br/>
+<strong>Twitter:</strong> <a href="https://twitter.com/_dasow">https://twitter.com/_dasow</a><br/>
 <strong>Landline:</strong> We’re pretty sure nobody has one of these anymore.<br/>
 <strong>Mobile Phone:</strong> After receiving threatening messages from Pat regarding his number being listed, this has been removed until further notice.
 <div>
