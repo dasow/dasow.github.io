@@ -13,4 +13,4 @@ In which we discuss the process failures that Westworld had, what they do right,
 **Links/Show Notes**
 
 * Bricked Apple Watches
-   * https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/
+   * [https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/](https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/)
