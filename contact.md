@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 ---
+## Contact
 Would you like to reach out to us (seriously, why?) and either discuss the show or tell us why we’re wrong (OK, that makes sense) about something?  You can reach us via the following means:
 
 <div>
