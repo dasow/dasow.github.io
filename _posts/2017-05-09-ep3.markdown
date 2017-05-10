@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Episode 3: Warnings and Errors or: People Pay Attention to Zombies"
+date:   2017-05-09
+permalink: episodes/3
+---
+<img src="/img/episode_3.jpeg" alt="Pay attention to zombies" width="700">
+
+**Description**
+
+In which we once again meet Pinocchio, who tells us that warnings are unnecessary.  We discuss why that’s not true, as well as logging, monitoring, and zombies.  Meanwhile, Pat reveals what prompted the idea behind the podcast following Tom’s eloquent defense of Westworld’s systems.
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5342448/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+**Links/Show Notes**
+
+* Iridium Satellite Network
+   * [https://en.wikipedia.org/wiki/Iridium_satellite_constellation](https://www.cdc.gov/phpr/zombies_novella.htm)
+* CDC’s Disaster Preparedness
+   * [https://www.cdc.gov/phpr/zombies_novella.htm](https://www.cdc.gov/phpr/zombies_novella.htm)
