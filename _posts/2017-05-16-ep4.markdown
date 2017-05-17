@@ -4,7 +4,7 @@ title:  "Episode 4: Log Persistence and Immutability or: "
 date:   2017-05-16
 permalink: episodes/4
 ---
-<img src="/img/episode_4.png" alt="Logs/Dashboards" width="700">
+<img src="/img/episode_4.jpg" alt="Burn the logs" width="700">
 
 **Description**
 
