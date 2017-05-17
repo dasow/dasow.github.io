@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 4: Log Persistence and Immutability or: "
+title:  "Episode 4: Log Persistence and Immutability or: You Miss All the Logs You Don’t Take"
 date:   2017-05-16
 permalink: episodes/4
 ---
