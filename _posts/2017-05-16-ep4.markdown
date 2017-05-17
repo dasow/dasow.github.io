@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Episode 4: Log Persistence and Immutability or: "
+date:   2017-05-16
+permalink: episodes/4
+---
+<img src="/img/episode_4.jpg" alt="Pay attention to zombies" width="700">
+
+**Description**
+
+In which we discuss the importance of logging, including persistence, immutability, and log levels.  We also discuss why logs should always contain the truth. Meanwhile, Pat claims to know what course of action our editor will take and is proven incorrect.
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5363240/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+**Links/Show Notes**
+
+* Graylog
+   * [https://www.graylog.org/](https://www.graylog.org/)
