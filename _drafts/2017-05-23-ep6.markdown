@@ -5,7 +5,7 @@ date:   2017-05-23
 permalink: episodes/6
 ---
 TODO
-<img src="/img/episode_6.png" alt="Dashboards" width="700">
+<img src="/img/episode_6.png" alt="Testing in Production" width="700">
 
 **Description**
 
