@@ -17,3 +17,11 @@ In which we discuss whether or not testing in production is a viable business ap
 
 * Environments
    * [https://en.wikipedia.org/wiki/Deployment_environment#Architectures](https://en.wikipedia.org/wiki/Deployment_environment#Architectures)
+* A/B Testing
+   * [https://en.wikipedia.org/wiki/A/B_testing](https://en.wikipedia.org/wiki/A/B_testing)
+   * [https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/)
+* Flesch-Kincaid 
+   * [https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
+* Average Reading Level in the US (or how Chris was right and Pat was wrong)
+   * [https://cdn1.sph.harvard.edu/wp-content/uploads/sites/135/2012/09/doakchap1-4.pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/135/2012/09/doakchap1-4.pdf)
+
