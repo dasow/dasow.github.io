@@ -4,7 +4,7 @@ title:  "Episode 6: Testing in Production, or: the Trials and Tribulations of Do
 date:   2017-05-23
 permalink: episodes/6
 ---
-TODO
+
 <img src="/img/episode_6.jpg" alt="Testing in Production" width="700">
 
 **Description**
