@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Episode 6: Testing in Production, or: the Trials and Tribulations of Dongworld"
+date:   2017-05-23
+permalink: episodes/6
+---
+TODO
+<img src="/img/episode_6.png" alt="Testing in Production" width="700">
+
+**Description**
+
+In which we discuss whether or not testing in production is a viable business approach, while also further musing on A/B and usability testing.  Meanwhile, Joe struggles to maintain his composure while providing a constructive real world example.
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5376035/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+**Links/Show Notes**
+
+* Environments
+   * [https://en.wikipedia.org/wiki/Deployment_environment#Architectures](https://en.wikipedia.org/wiki/Deployment_environment#Architectures)
+* A/B Testing
+   * [https://en.wikipedia.org/wiki/A/B_testing](https://en.wikipedia.org/wiki/A/B_testing)
+   * [https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/)
+* Flesch-Kincaid 
+   * [https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests)
+* Average Reading Level in the US (or how Chris was right and Pat was wrong)
+   * [https://cdn1.sph.harvard.edu/wp-content/uploads/sites/135/2012/09/doakchap1-4.pdf](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/135/2012/09/doakchap1-4.pdf)
+

@@ -2,6 +2,9 @@
 title: Dollars & Sense of Westworld
 description: "We try to figure out if it would be possible to run Westworld as an actual business."
 url: "http://www.dollarsandsenseofwestworld.com"
+author:
+- name: "Dollars and Sense of Westworld"
+  url: "https://twitter.com/_dasow"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
