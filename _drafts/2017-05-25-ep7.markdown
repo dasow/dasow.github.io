@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Episode 7: "
+date:   2017-05-25
+permalink: episodes/7
+---
+
+<img src="/img/episode_7.jpg" alt="Data Retention" width="700">
+
+**Description**
+
+DESCRIPTION GOES HERE
+
+<!--<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5376035/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>-->
+
+**Links/Show Notes**
+
+* GRC Explained
+   * [https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance](https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance)
+* Target Machine Learning
+   * [http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
+* The Crux of PII
+   * [https://en.wikipedia.org/wiki/Personally_identifiable_information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
+* Snapchat’s Ownership of Your Stuff Privacy Policy
+   * [https://www.snap.com/en-GB/privacy/privacy-policy/](https://www.snap.com/en-GB/privacy/privacy-policy/)
+* CIA, Telegram, and Your Phone
+   * [http://telegra.ph/Wikileaks-Vault7-NEWS](http://telegra.ph/Wikileaks-Vault7-NEWS)
+* A Sample of the Glamour Shots Joe Sends Chris
+   * NEED TO UPLOAD PHOTO
