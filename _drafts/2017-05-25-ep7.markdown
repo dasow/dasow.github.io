@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 7: "
-date:   2017-05-25
+title:  "Episode 7: Data Retention, or: Don’t Get Burned Cooking the Books"
+date:   2017-05-24
 permalink: episodes/7
 ---
 
@@ -9,9 +9,9 @@ permalink: episodes/7
 
 **Description**
 
-DESCRIPTION GOES HERE
+In which we discuss the reasons why a company would both retain and discard data, as well as the policies and groups that inform such decisions. Meanwhile, we try (and succeed) to set a new record for both acronyms used in the podcast and episode length, and also thank the NSA for listening.
 
-<!--<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5376035/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>-->
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5387769/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 **Links/Show Notes**
 
@@ -21,9 +21,9 @@ DESCRIPTION GOES HERE
    * [http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
 * The Crux of PII
    * [https://en.wikipedia.org/wiki/Personally_identifiable_information](https://en.wikipedia.org/wiki/Personally_identifiable_information)
-* Snapchat’s Ownership of Your Stuff Privacy Policy
+* Snapchat’s ~~Ownership of Your Stuff~~ Privacy Policy
    * [https://www.snap.com/en-GB/privacy/privacy-policy/](https://www.snap.com/en-GB/privacy/privacy-policy/)
 * CIA, Telegram, and Your Phone
    * [http://telegra.ph/Wikileaks-Vault7-NEWS](http://telegra.ph/Wikileaks-Vault7-NEWS)
 * A Sample of the Glamour Shots Joe Sends Chris
-   * NEED TO UPLOAD PHOTO
+   * [Do you really want to click this?](http://www.dollarsandsenseofwestworld.com/img/Joe_Snap.jpg)
