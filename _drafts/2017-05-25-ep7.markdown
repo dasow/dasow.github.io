@@ -5,7 +5,7 @@ date:   2017-05-24
 permalink: episodes/7
 ---
 
-<img src="/img/episode_7.jpg" alt="Data Retention" width="700">
+<img src="/img/episode_7.gif" alt="Data Retention" width="700">
 
 **Description**
 
