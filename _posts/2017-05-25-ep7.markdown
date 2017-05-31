@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 7: Data Retention, or: Don’t Get Burned Cooking the Books"
-date:   2017-05-24
+date:   2017-05-25
 permalink: episodes/7
 ---
 
