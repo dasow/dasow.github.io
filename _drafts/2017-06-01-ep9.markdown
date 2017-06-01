@@ -5,7 +5,7 @@ date:   2017-06-01
 permalink: episodes/9
 ---
 
-<img src="/img/episode_8.jpg" alt="Reporting Structure" width="700">
+<img src="/img/episode_9.jpg" alt="Reporting Structure" width="700">
 
 **Description**
 
