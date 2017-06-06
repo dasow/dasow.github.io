@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Episode 10: Coding Standards and Practices or: Let’s Try Learning from our Mistakes for a Change
+Or: Hobgoblins of Little Minds?"
+date:   2017-06-06
+permalink: episodes/10
+---
+
+<img src="/img/episode_10.jpg" alt="Coding Structures" width="700">
+
+**Description**
+
+In which we discuss why it’s important to establish coding standards in a development organization, as well as the impact of code reviews and testing.  Meanwhile, Joe manages to sneak in some shameless self promotion while espousing certain approaches to quality engineering.
+
+<!--<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5409566/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>-->
+
+**Links/Show Notes**
+
+* Code Reviews
+   * [https://en.wikipedia.org/wiki/Code_review](https://en.wikipedia.org/wiki/Code_review)
+* Watch People Code
+   * [http://www.watchpeoplecode.com/](http://www.watchpeoplecode.com/)
+* Version Control Systems
+   * [https://en.wikipedia.org/wiki/Version_control](https://en.wikipedia.org/wiki/Version_control)
+* Linus Torvalds
+   * [https://en.wikipedia.org/wiki/Linus_Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+* How to Create a Test Plan
+   * [https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/](https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/)
+* Expert Systems
+   * [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
