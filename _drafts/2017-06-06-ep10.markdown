@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Episode 10: Coding Standards and Practices or: Let’s Try Learning from our Mistakes for a Change
-Or: Hobgoblins of Little Minds?"
+title:  "Episode 10: Coding Standards and Practices or: Let’s Try Learning from our Mistakes for a Change"
 date:   2017-06-06
 permalink: episodes/10
 ---
