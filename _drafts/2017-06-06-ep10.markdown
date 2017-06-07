@@ -29,5 +29,4 @@ In which we discuss why it’s important to establish coding standards in a deve
 * Expert Systems
    * [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
 * Blog on testing software
-   * [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
    * [http://qualitytesting.tech](http://qualitytesting.tech)
