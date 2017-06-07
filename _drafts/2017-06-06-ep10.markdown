@@ -28,5 +28,5 @@ In which we discuss why it’s important to establish coding standards in a deve
    * [https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/](https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/)
 * Expert Systems
    * [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
-* Blog on testing software
+* Quality Software Blog
    * [http://qualitytesting.tech](http://qualitytesting.tech)
