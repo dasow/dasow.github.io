@@ -5,7 +5,7 @@ date:   2017-06-08
 permalink: episodes/11
 ---
 
-<img src="/img/episode_11.jpg" alt="OSHA" width="700">
+<img src="/img/episode-11.gif" alt="OSHA" width="700">
 
 **Description**
 
