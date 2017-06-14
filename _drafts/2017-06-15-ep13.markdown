@@ -5,7 +5,7 @@ date:   2017-06-15
 permalink: episodes/13
 ---
 
-<img src="/img/episode_13.jpg" alt="OSHA" width="700">
+<img src="/img/episode_13.jpg" alt="Three Laws Part One" width="700">
 
 **Description**
 
@@ -27,4 +27,4 @@ In which we explain what the Three Laws are, discuss the difficulties in impleme
    * [https://www.youtube.com/watch?v=p4IJA5Zpzz4](https://www.youtube.com/watch?v=p4IJA5Zpzz4)
    * [https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/](https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/)
 * Mike Pence
-   * [https://en.wikipedia.org/wiki/Mike_Pence](https://en.wikipedia.org/wiki/Mike_Pence) 
+   * [https://en.wikipedia.org/wiki/Mike_Pence](https://en.wikipedia.org/wiki/Mike_Pence)

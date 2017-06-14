@@ -5,7 +5,7 @@ date:   2017-06-13
 permalink: episodes/12
 ---
 
-<img src="/img/episode-12.jpg" alt="OSHA" width="700">
+<img src="/img/episode-12.jpg" alt="Corporate Security" width="700">
 
 **Description**
 
