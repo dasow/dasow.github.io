@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 12: Corporate Security, or: the Vulnerabilities and Dangers of DiscothequeWorld"
+date:   2017-06-13
+permalink: episodes/12
+---
+
+<img src="/img/episode-12.jpg" alt="OSHA" width="700">
+
+**Description**
+
+In which we discuss various aspects of site and operational security, and come to the conclusion that our lack of legal background leaves us with some unanswered questions.  Meanwhile, we finally begin demonstrating how our previous discussions contribute to a holistic view of running the park as a business while Chris reveals his safe word to the audience.
+
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5446251/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+**Links/Show Notes**
+
+* Spinal Column
+   * [http://c8.alamy.com/comp/ADW5KD/spine-surgery-c5-6-and-c6-7-disc-herniations-with-two-level-discectomy-ADW5KD.jpg](http://c8.alamy.com/comp/ADW5KD/spine-surgery-c5-6-and-c6-7-disc-herniations-with-two-level-discectomy-ADW5KD.jpg)
+* The Great White Fire
+   * [https://en.wikipedia.org/wiki/The_Station_nightclub_fire](https://en.wikipedia.org/wiki/The_Station_nightclub_fire)
+* Safeword
+   * [https://en.wikipedia.org/wiki/Safeword](https://en.wikipedia.org/wiki/Safeword)
