@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Episode 15:"
+date:   2017-06-22
+permalink: episodes/15
+---
+
+<!--<img src="/img/episode_14.jpg" alt="Three Laws Part Two" width="700">-->
+
+**Description**
+
+
+<!--<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5466742/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>-->
+
+**Links/Show Notes**
