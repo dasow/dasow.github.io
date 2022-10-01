@@ -1,21 +1,25 @@
 ---
 layout: post
-title:  "Episode 1: Automation or: The Proper Way to Sand Your Horse"
-date:   2017-04-25
+title: "Episode 1: Automation or: The Proper Way to Sand Your Horse"
+date: 2017-04-25
 permalink: episodes/1
 ---
+
 ![How to properly sand your hourse](/img/how_to_sand_a_horse.jpg)
 
 **Description**
 
 In which we discuss the value of automation, as well as when it does and doesn’t make sense. Meanwhile, we completely ignore the opportunity to discuss the ethics of host slave labor.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5299937/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow1.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Host Intake Protocol:
-   * [http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg](http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg)
-* Branching narrative software examples:
-   * [http://www.inklestudios.com/inklewriter/](http://www.inklestudios.com/inklewriter/)
-   * [http://www.storynexus.com/s](http://www.storynexus.com/s)
+- Host Intake Protocol:
+  - [http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg](http://www.delosincorporated.com/images/intra/host_intake_protocol.jpg)
+- Branching narrative software examples:
+  - [http://www.inklestudios.com/inklewriter/](http://www.inklestudios.com/inklewriter/)
+  - [http://www.storynexus.com/s](http://www.storynexus.com/s)

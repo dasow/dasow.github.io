@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 15: Ethics and Impact of Operating a Host Slave Labor-Based Business or: Two Cents Short of a Dollar"
-date:   2017-06-22
+title: "Episode 15: Ethics and Impact of Operating a Host Slave Labor-Based Business or: Two Cents Short of a Dollar"
+date: 2017-06-22
 permalink: episodes/15
 ---
 
@@ -11,4 +11,7 @@ permalink: episodes/15
 
 In which we discuss how robots still aren’t people, and they never will be. Meanwhile Pat drops a racially triggered topic and makes all of the cis straight white males uncomfortable.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5473511/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow15.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>

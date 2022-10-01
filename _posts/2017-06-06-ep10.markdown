@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 10: Coding Standards and Practices or: Let’s Try Learning from our Mistakes for a Change"
-date:   2017-06-06
+title: "Episode 10: Coding Standards and Practices or: Let’s Try Learning from our Mistakes for a Change"
+date: 2017-06-06
 permalink: episodes/10
 ---
 
@@ -9,25 +9,28 @@ permalink: episodes/10
 
 **Description**
 
-In which we discuss why it’s important to establish coding standards in a development organization, as well as the impact of code reviews and testing.  Meanwhile, Joe manages to sneak in some shameless self promotion while espousing certain approaches to quality engineering.
+In which we discuss why it’s important to establish coding standards in a development organization, as well as the impact of code reviews and testing. Meanwhile, Joe manages to sneak in some shameless self promotion while espousing certain approaches to quality engineering.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5425433/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow10.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Code Reviews
-   * [https://en.wikipedia.org/wiki/Code_review](https://en.wikipedia.org/wiki/Code_review)
-* Watch People Code
-   * [http://www.watchpeoplecode.com/](http://www.watchpeoplecode.com/)
-* Version Control Systems
-   * [https://en.wikipedia.org/wiki/Version_control](https://en.wikipedia.org/wiki/Version_control)
-* Linus Torvalds
-   * [https://en.wikipedia.org/wiki/Linus_Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
-* How to Create a Test Plan
-   * [https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/](https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/)
-* Expert Systems
-   * [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
-* Quality Software Blog
-   * [http://qualitytesting.tech](http://qualitytesting.tech)
-* Shameless Promotion
-   * [http://qualitytesting.tech/](http://qualitytesting.tech/)
+- Code Reviews
+  - [https://en.wikipedia.org/wiki/Code_review](https://en.wikipedia.org/wiki/Code_review)
+- Watch People Code
+  - [http://www.watchpeoplecode.com/](http://www.watchpeoplecode.com/)
+- Version Control Systems
+  - [https://en.wikipedia.org/wiki/Version_control](https://en.wikipedia.org/wiki/Version_control)
+- Linus Torvalds
+  - [https://en.wikipedia.org/wiki/Linus_Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+- How to Create a Test Plan
+  - [https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/](https://blog.testlodge.com/what-is-a-test-plan-in-software-testing/)
+- Expert Systems
+  - [https://en.wikipedia.org/wiki/Expert_system](https://en.wikipedia.org/wiki/Expert_system)
+- Quality Software Blog
+  - [http://qualitytesting.tech](http://qualitytesting.tech)
+- Shameless Promotion
+  - [http://qualitytesting.tech/](http://qualitytesting.tech/)

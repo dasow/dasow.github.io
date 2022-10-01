@@ -1,18 +1,22 @@
 ---
 layout: post
-title:  "Episode 2: Why Process is Important or: A/B Testing of Brothels"
-date:   2017-05-02
+title: "Episode 2: Why Process is Important or: A/B Testing of Brothels"
+date: 2017-05-02
 permalink: episodes/2
 ---
+
 <img src="/img/rate_my_brothel.jpg" alt="How to A/B test a brothel" width="700">
 
 **Description**
 
 In which we discuss the process failures that Westworld had, what they do right, why it’s important to identify the root cause, and prostitution. We also dive into what happens when the process allows failures to continue happening, how to improve a broken process, and why it’s important to verify that something was fixed. Meanwhile, Pat takes a couple potshots at product owners while forgetting he happens to be one.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5321396/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow2.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Bricked Apple Watches
-   * [https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/](https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/)
+- Bricked Apple Watches
+  - [https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/](https://arstechnica.com/apple/2016/12/apple-watch-update-bricked-devices/)

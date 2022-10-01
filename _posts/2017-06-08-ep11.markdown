@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 11: OSHA or: Hooray Deregulation!"
-date:   2017-06-08
+title: "Episode 11: OSHA or: Hooray Deregulation!"
+date: 2017-06-08
 permalink: episodes/11
 ---
 
@@ -11,13 +11,16 @@ permalink: episodes/11
 
 In which we discuss workplace safety, dismemberment, and antibiotic-resistant infections found in robot prostitutes. Meanwhile, Chris repeatedly advocates victim-blaming as we discuss prospective solutions to the safety issues that run rampant throughout Westworld.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5425449/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow11.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* OSHA
-   * [https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration](https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration)
-* MRSA
-   * [https://www.cdc.gov/mrsa/](https://www.cdc.gov/mrsa/)
-* Chuck E Cheese and Satanism: totally bullshit
-   * [http://now8news.com/police-find-satanic-ritual-dungeon-in-chicago-chuck-e-cheese-basement/](http://now8news.com/police-find-satanic-ritual-dungeon-in-chicago-chuck-e-cheese-basement/)
+- OSHA
+  - [https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration](https://en.wikipedia.org/wiki/Occupational_Safety_and_Health_Administration)
+- MRSA
+  - [https://www.cdc.gov/mrsa/](https://www.cdc.gov/mrsa/)
+- Chuck E Cheese and Satanism: totally bullshit
+  - [http://now8news.com/police-find-satanic-ritual-dungeon-in-chicago-chuck-e-cheese-basement/](http://now8news.com/police-find-satanic-ritual-dungeon-in-chicago-chuck-e-cheese-basement/)

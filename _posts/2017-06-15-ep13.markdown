@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 13: Three Laws Part One, or: How Robots Must Protect Humankind (Except Joe)"
-date:   2017-06-15
+title: "Episode 13: Three Laws Part One, or: How Robots Must Protect Humankind (Except Joe)"
+date: 2017-06-15
 permalink: episodes/13
 ---
 
@@ -9,22 +9,25 @@ permalink: episodes/13
 
 **Description**
 
-In which we explain what the Three Laws are, discuss the difficulties in implementing them in general and in Westworld in particular, all thanks to the help of a special guest.  Meanwhile, Chris calls everyone dicks as our editor continues to show he doesn’t actually cut anything out of these episodes.
+In which we explain what the Three Laws are, discuss the difficulties in implementing them in general and in Westworld in particular, all thanks to the help of a special guest. Meanwhile, Chris calls everyone dicks as our editor continues to show he doesn’t actually cut anything out of these episodes.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5446373/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow13.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Dewey Decimal System
-   * [https://mypages.iit.edu/~smart/halsey/lesson1.htm](https://mypages.iit.edu/~smart/halsey/lesson1.htm)
-* I, Robot - the movie
-   * [https://en.wikipedia.org/wiki/I,_Robot_(film)](https://en.wikipedia.org/wiki/I,_Robot)
-* Asimov’s story about a non-humanoid robot
-   * [https://en.wikipedia.org/wiki/Runaround_(story)](https://en.wikipedia.org/wiki/Runaround)
-* Arizona Iced Tea is always 99 cents
-   * [https://thehustle.co/arizona-iced-tea](https://thehustle.co/arizona-iced-tea)
-* Run, Hide, Fight
-   * [https://www.youtube.com/watch?v=p4IJA5Zpzz4](https://www.youtube.com/watch?v=p4IJA5Zpzz4)
-   * [https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/](https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/)
-* Mike Pence
-   * [https://en.wikipedia.org/wiki/Mike_Pence](https://en.wikipedia.org/wiki/Mike_Pence)
+- Dewey Decimal System
+  - [https://mypages.iit.edu/~smart/halsey/lesson1.htm](https://mypages.iit.edu/~smart/halsey/lesson1.htm)
+- I, Robot - the movie
+  - [https://en.wikipedia.org/wiki/I,_Robot_(film)](https://en.wikipedia.org/wiki/I,_Robot)
+- Asimov’s story about a non-humanoid robot
+  - [https://en.wikipedia.org/wiki/Runaround\_(story)](https://en.wikipedia.org/wiki/Runaround)
+- Arizona Iced Tea is always 99 cents
+  - [https://thehustle.co/arizona-iced-tea](https://thehustle.co/arizona-iced-tea)
+- Run, Hide, Fight
+  - [https://www.youtube.com/watch?v=p4IJA5Zpzz4](https://www.youtube.com/watch?v=p4IJA5Zpzz4)
+  - [https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/](https://www.policeone.com/active-shooter/articles/190621006-Why-Run-Hide-Fight-is-flawed/)
+- Mike Pence
+  - [https://en.wikipedia.org/wiki/Mike_Pence](https://en.wikipedia.org/wiki/Mike_Pence)
