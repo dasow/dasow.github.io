@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 14: The Three Laws Part Two, or: The Relativity of Wrong"
-date:   2017-06-20
+title: "Episode 14: The Three Laws Part Two, or: The Relativity of Wrong"
+date: 2017-06-20
 permalink: episodes/14
 ---
 
@@ -9,22 +9,25 @@ permalink: episodes/14
 
 **Description**
 
-In which we continue our discussion of the three laws by discussing how we would want them enacted in our potential business model, including which one of the three laws we think may no longer be necessary.  Meanwhile, special guest Paul brings his A game with sports analogies, and Joe makes Jew jokes.
+In which we continue our discussion of the three laws by discussing how we would want them enacted in our potential business model, including which one of the three laws we think may no longer be necessary. Meanwhile, special guest Paul brings his A game with sports analogies, and Joe makes Jew jokes.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5466742/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow14.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Superuser
-   * [https://en.wikipedia.org/wiki/Superuser](https://en.wikipedia.org/wiki/Superuser)
-* Rolling a one
-   * [http://www.urbandictionary.com/define.php?term=rolling%20a%20one](http://www.urbandictionary.com/define.php?term=rolling%20a%20one)
-* Darwin Awards
-   * [http://www.darwinawards.com/](http://www.darwinawards.com/)
-* The Little Lost Robot
-   * [https://en.wikipedia.org/wiki/Little_Lost_Robot](https://en.wikipedia.org/wiki/Little_Lost_Robot)
-* 4th Law
-   * [https://scifi.stackexchange.com/questions/21425/are-the-4th-and-5th-extensions-to-the-3-laws-of-robotics-validated-by-asimov](https://scifi.stackexchange.com/questions/21425/are-the-4th-and-5th-extensions-to-the-3-laws-of-robotics-validated-by-asimov)
-* Fail Safe vs Fail Deadly
-   * [https://en.wikipedia.org/wiki/Fail-safe](https://en.wikipedia.org/wiki/Fail-safe)
-   * [https://en.wikipedia.org/wiki/Fail-deadly](https://en.wikipedia.org/wiki/Fail-deadly)
+- Superuser
+  - [https://en.wikipedia.org/wiki/Superuser](https://en.wikipedia.org/wiki/Superuser)
+- Rolling a one
+  - [http://www.urbandictionary.com/define.php?term=rolling%20a%20one](http://www.urbandictionary.com/define.php?term=rolling%20a%20one)
+- Darwin Awards
+  - [http://www.darwinawards.com/](http://www.darwinawards.com/)
+- The Little Lost Robot
+  - [https://en.wikipedia.org/wiki/Little_Lost_Robot](https://en.wikipedia.org/wiki/Little_Lost_Robot)
+- 4th Law
+  - [https://scifi.stackexchange.com/questions/21425/are-the-4th-and-5th-extensions-to-the-3-laws-of-robotics-validated-by-asimov](https://scifi.stackexchange.com/questions/21425/are-the-4th-and-5th-extensions-to-the-3-laws-of-robotics-validated-by-asimov)
+- Fail Safe vs Fail Deadly
+  - [https://en.wikipedia.org/wiki/Fail-safe](https://en.wikipedia.org/wiki/Fail-safe)
+  - [https://en.wikipedia.org/wiki/Fail-deadly](https://en.wikipedia.org/wiki/Fail-deadly)

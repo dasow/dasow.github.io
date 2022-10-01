@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 8: Reporting Structure or: There’s No One to Blame if There’s No One in Charge"
-date:   2017-05-30
+title: "Episode 8: Reporting Structure or: There’s No One to Blame if There’s No One in Charge"
+date: 2017-05-30
 permalink: episodes/8
 ---
 
@@ -9,17 +9,20 @@ permalink: episodes/8
 
 **Description**
 
-In which we talk about the headless tree that doesn’t make adequately defined roles, purposes, or liability.  We also discuss rogue CEOs running wild and real world comparisons to what actually happened. Meanwhile, Chris learns that he’s no longer capable of wrapping up the show.
+In which we talk about the headless tree that doesn’t make adequately defined roles, purposes, or liability. We also discuss rogue CEOs running wild and real world comparisons to what actually happened. Meanwhile, Chris learns that he’s no longer capable of wrapping up the show.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5403680/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow8.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Reddit Org Chart
-   * [http://dollarsandsenseofwestworld.com/img/reddit_org_chart.jpg](http://dollarsandsenseofwestworld.com/img/reddit_org_chart.jpg)
-* When the board of directors of Apple forced Jobs out
-   * [http://money.cnn.com/2015/02/06/technology/john-sculley/](http://money.cnn.com/2015/02/06/technology/john-sculley/)
-* Explicit vs. Implicit org chart/structure
-   * [http://www.investopedia.com/terms/o/organizational-structure.asp](http://www.investopedia.com/terms/o/organizational-structure.asp)
-* The Best Disney Org Chart We Could Find
-   * [http://1.bp.blogspot.com/_A4grLYnNdu4/SBKpP35ZwSI/AAAAAAAAAWU/flmkKqxMOPo/s1600-h/20080426+Summer-Fall+1972+Foods+Division+Org+Chart.jpg](http://1.bp.blogspot.com/_A4grLYnNdu4/SBKpP35ZwSI/AAAAAAAAAWU/flmkKqxMOPo/s1600-h/20080426+Summer-Fall+1972+Foods+Division+Org+Chart.jpg )
+- Reddit Org Chart
+  - [http://dollarsandsenseofwestworld.com/img/reddit_org_chart.jpg](http://dollarsandsenseofwestworld.com/img/reddit_org_chart.jpg)
+- When the board of directors of Apple forced Jobs out
+  - [http://money.cnn.com/2015/02/06/technology/john-sculley/](http://money.cnn.com/2015/02/06/technology/john-sculley/)
+- Explicit vs. Implicit org chart/structure
+  - [http://www.investopedia.com/terms/o/organizational-structure.asp](http://www.investopedia.com/terms/o/organizational-structure.asp)
+- The Best Disney Org Chart We Could Find
+  - [http://1.bp.blogspot.com/\_A4grLYnNdu4/SBKpP35ZwSI/AAAAAAAAAWU/flmkKqxMOPo/s1600-h/20080426+Summer-Fall+1972+Foods+Division+Org+Chart.jpg](http://1.bp.blogspot.com/_A4grLYnNdu4/SBKpP35ZwSI/AAAAAAAAAWU/flmkKqxMOPo/s1600-h/20080426+Summer-Fall+1972+Foods+Division+Org+Chart.jpg)

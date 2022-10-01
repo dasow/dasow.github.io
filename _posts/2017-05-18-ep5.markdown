@@ -1,22 +1,26 @@
 ---
 layout: post
-title:  "Episode 5: Insufficient Monitoring or: How to Go Full Skynet Without Anyone Noticing"
-date:   2017-05-18
+title: "Episode 5: Insufficient Monitoring or: How to Go Full Skynet Without Anyone Noticing"
+date: 2017-05-18
 permalink: episodes/5
 ---
+
 <img src="/img/episode_5.png" alt="Dashboards" width="700">
 
 **Description**
 
 In which we cover failures in both our world and Westworld that could have been prevented by monitoring. Meanwhile, we discover that Chris regularly takes life into his own hands while ending the episode within the first minute and a half.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5363367/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow5.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* Stuxnet Breakdown
-   * [http://securityaffairs.co/wordpress/43677/malware/new-revelations-stuxnet-attack.html](http://securityaffairs.co/wordpress/43677/malware/new-revelations-stuxnet-attack.html)
-* Markov Chains
-   * [http://setosa.io/ev/markov-chains/](http://setosa.io/ev/markov-chains/)
-* AWOL
-   * [https://en.wiktionary.org/wiki/AWOL](https://en.wiktionary.org/wiki/AWOL)
+- Stuxnet Breakdown
+  - [http://securityaffairs.co/wordpress/43677/malware/new-revelations-stuxnet-attack.html](http://securityaffairs.co/wordpress/43677/malware/new-revelations-stuxnet-attack.html)
+- Markov Chains
+  - [http://setosa.io/ev/markov-chains/](http://setosa.io/ev/markov-chains/)
+- AWOL
+  - [https://en.wiktionary.org/wiki/AWOL](https://en.wiktionary.org/wiki/AWOL)

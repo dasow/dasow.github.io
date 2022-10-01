@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Episode 9: HR, or: Don’t Dip Your Pen in the Company Ink"
-date:   2017-06-01
+title: "Episode 9: HR, or: Don’t Dip Your Pen in the Company Ink"
+date: 2017-06-01
 permalink: episodes/9
 ---
 
@@ -9,15 +9,18 @@ permalink: episodes/9
 
 **Description**
 
-In which we discuss whether or not Westworld has an HR department (spoiler: the consensus is no).  We also discuss the purpose of human resources and some recent real-world HR failures.  Meanwhile, Pat and Joe repeatedly try and trick Chris into revealing too much information while we begin to question if there’s anything our editor actually removes.
+In which we discuss whether or not Westworld has an HR department (spoiler: the consensus is no). We also discuss the purpose of human resources and some recent real-world HR failures. Meanwhile, Pat and Joe repeatedly try and trick Chris into revealing too much information while we begin to question if there’s anything our editor actually removes.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5409566/height/50/width/640/theme/standard-mini/autonext/no/thumbnail/no/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="30" width="320" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<audio controls>
+  <source src="/episodes/dasow9.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 **Links/Show Notes**
 
-* The Uber Debacle
-   * [https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
-* Zenefits and Office Relations
-   * [http://fortune.com/2016/02/23/zenefits-sex-office-ban/](http://fortune.com/2016/02/23/zenefits-sex-office-ban/)
-* Lots of People have Herpes
-   * [http://www.who.int/mediacentre/news/releases/2015/herpes/en/](http://www.who.int/mediacentre/news/releases/2015/herpes/en/)
+- The Uber Debacle
+  - [https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
+- Zenefits and Office Relations
+  - [http://fortune.com/2016/02/23/zenefits-sex-office-ban/](http://fortune.com/2016/02/23/zenefits-sex-office-ban/)
+- Lots of People have Herpes
+  - [http://www.who.int/mediacentre/news/releases/2015/herpes/en/](http://www.who.int/mediacentre/news/releases/2015/herpes/en/)
