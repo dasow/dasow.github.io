@@ -24,6 +24,9 @@
 		<description><![CDATA[We try to figure out if it would be possible to run Westworld as an actual business. This exercise will cover the entire show, so be aware spoilers will follow. It is not a criticism of the story itself, as we do understand there’s dramatic license at work here. Please don’t send us hate mail.]]></description>
 		<itunes:subtitle><![CDATA[]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:email>podcast@dollarsandsenseofwestworld.com</itunes:email>
+		</itunes:owner>
 		<podcast:locked owner="">no</podcast:locked>
 		<item>
 			<title>15: Ethics and Impact of Operating a Host Slave Labor-Based Business or: Two Cents Short of a Dollar</title>
